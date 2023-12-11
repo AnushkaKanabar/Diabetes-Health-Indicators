@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Page with Power BI Link</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Page!</h1>
+    
+    <!-- Add a link to the Power BI dashboard -->
+    <a href="https://app.powerbi.com/groups/me/dashboards/c6119c55-4d4b-4728-b428-8675dfc5c247?experience=power-bi">Open Power BI Dashboard</a>
+</body>
+</html>
